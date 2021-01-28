@@ -1,0 +1,14 @@
+<?php 
+    define("css_path","css/");
+    define("img_path","img/");
+    define("js_path","Js/");
+    define("icon_path","icon/");
+    define("vendor_path","vendor/");
+    define("Header_path","Header/");
+    define("Content_path","Content/");
+    define("Footer_path","Footer/");
+    define("Lib_path","Lib/");
+    define("Data_path","Data/");
+    define("Page_path","Pages/");
+    define("Admin_path","Admin/");
+?>
